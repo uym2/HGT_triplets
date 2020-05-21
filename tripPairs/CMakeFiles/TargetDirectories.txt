@@ -1,0 +1,3 @@
+/Users/uym2/my_gits/HGT_triplets/tripPairs/CMakeFiles/rebuild_cache.dir
+/Users/uym2/my_gits/HGT_triplets/tripPairs/CMakeFiles/edit_cache.dir
+/Users/uym2/my_gits/HGT_triplets/tripPairs/CMakeFiles/tripPair.dir
